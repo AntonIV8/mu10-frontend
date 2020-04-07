@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Mu10",
+  "applicationTitle": "Mu10",
+  "items": [
+    {
+      "link": null,
+      "menuName": "mu10",
+      "caption": "mu10",
+      "title": "mu10",
+      "children": [
+        {
+          "link": "i-i-s-mu10-s33-l",
+          "menuName": null,
+          "caption": "S33",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
